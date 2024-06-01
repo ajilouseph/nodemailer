@@ -14,7 +14,7 @@ const signup = (req,res) => {
     
     var mailOptions = {
       from: 'ajilouseph123@gmail.com',
-      to: 'ajilouseph2015@gmail.com',
+      to: 'ashin209@gmail.com',
       subject: 'Sending Email using Node.js',
       text: 'This is the email sent for learning'
     };
